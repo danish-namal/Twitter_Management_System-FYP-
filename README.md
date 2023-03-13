@@ -1,5 +1,5 @@
 # Twitter_Management_System-FYP
-HTML, CSS, JavaScript, Django, AWS, Twitter API, OAuth, MongoDB
+This is my Final year project with name Twitter Management System, in which Users may simply check and keep track on their Twitter followers using the website Twitter Management System. The site offers real-time data on the amount of followers gained or lost, as well as comprehensive insights into follower demographics and engagement levels, thanks to its user-friendly layout and effective analytics tools. Also, users can keep track of their unfollowers and take proactive measures to improve their Twitter visibility. For social media managers, influencers, and anybody else trying to develop a loyal and active Twitter following, Twitter Management System is a vital tool. It is also used for following and stats. 
 
 
 # Abstract
@@ -22,15 +22,15 @@ Here are the steps to propose the solution of our Twitter management system:
 9. With this tool, Twitter users can keep track of who unfollows them and take necessary action, such as reviewing their content and engagement strategies, to retain followers.
 
 # Tools and Technologies
-HTML
-Javascript
-CSS, Bootstrap for styling
-Django as back-end
-MySQL database
-UML and Visual paradigm  for drawing diagrams
-Github for code sharing
-Git for version control
-Visual Studio Code
-Twitter API (Fetching Data)
-AWS (Cloud Storage)
-Authentication (OAuth)
+1. HTML
+2. Javascript
+3. CSS, Bootstrap for styling
+4. Django as back-end
+5. MySQL database
+6. UML and Visual paradigm  for drawing diagrams
+7. Github for code sharing
+8. Git for version control
+9. Visual Studio Code
+10. Twitter API (Fetching Data)
+11. AWS (Cloud Storage)
+12. Authentication (OAuth)
